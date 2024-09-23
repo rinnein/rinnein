@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+<p align="center">
+<a title="github" target="_blank" href="https://github.com/rinnein"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Drinnein&labelColor=282c34&color=353940&logo=github&longCache=true"></a>
+</p>
+
+I'm Rinne, visit my website in <https://www.rinne.in> !
+
+## My GitHub Status
+
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=rinnein" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinnein&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rinnein" />
+</div>
+
 <!--
 **rinnein/rinnein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
