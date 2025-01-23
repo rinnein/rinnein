@@ -1,4 +1,4 @@
-# Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=rinnein.readme)
+# Rinne 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=rinnein.readme)
 
 <picture>
   <source
