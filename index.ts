@@ -23,7 +23,7 @@ const mxClient = createClient(axiosAdaptor)(mxSpace.api, {
 axiosAdaptor.default.interceptors.request.use((req) => {
   req.headers &&
     (req.headers["User-Agent"] =
-      userAgent + " Nextjs/Shiro gh-me/Rinne-profile");
+      userAgent + " gh-me/Rinne-profile");
   return req;
 });
 
