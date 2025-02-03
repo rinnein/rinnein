@@ -73,7 +73,7 @@ An independent amateur developer coding with love.
 
 **Recent Writing...**
 
-<ul><li><span>12/8/24 - <a href=https://rinne.in/notes/4>记贡献 bgm.tv 的API项目(bangumi/server)时的一些坑</a></span></li><li><span>12/8/24 - <a href=https://rinne.in/notes/3>算是知道“黑科技”这个词的来源了</a></span></li><li><span>10/1/24 - <a href=https://rinne.in/posts/devlogs/rollup-project-config-template>一份Rollup项目的配置模板</a></span></li><li><span>10/1/24 - <a href=https://rinne.in/posts/app-share/extinguish>Extinguish: 让你的手机只是关闭屏幕而不锁屏</a></span></li><li><span>9/30/24 - <a href=https://rinne.in/posts/default/avoid-conflicts-when-using-gpg-with-smartcards>让GPG的智能卡功能不会与其它软件冲突</a></span></li></ul>
+<ul><li><span>2/2/25 - <a href=https://rinne.in/posts/translation/typescript-enum-as-restricted-key-or-value-type>在 TypeScript 中将枚举(enum)用作受限键(key)或值类型</a></span></li><li><span>2/2/25 - <a href=https://rinne.in/posts/devlogs/base16384-guidebook>Base16384.js 使用指南</a></span></li><li><span>12/8/24 - <a href=https://rinne.in/notes/4>记贡献 bgm.tv 的API项目(bangumi/server)时的一些坑</a></span></li><li><span>12/8/24 - <a href=https://rinne.in/notes/3>算是知道“黑科技”这个词的来源了</a></span></li><li><span>10/1/24 - <a href=https://rinne.in/posts/devlogs/rollup-project-config-template>一份Rollup项目的配置模板</a></span></li></ul>
 
 **Recent Star...**
 
@@ -90,4 +90,4 @@ An independent amateur developer coding with love.
 ---
 
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/2/25, 9:14 AM<br>下一次刷新：2/3/25, 9:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/3/25, 9:12 AM<br>下一次刷新：2/4/25, 9:12 AM</p>
