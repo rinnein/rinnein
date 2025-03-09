@@ -73,7 +73,7 @@ An independent amateur developer coding with love.
 
 **Recent Writing...**
 
-<ul><li><span>2/2/25 - <a href=https://rinne.in/posts/translation/typescript-enum-as-restricted-key-or-value-type>在 TypeScript 中将枚举(enum)用作受限键(key)或值类型</a></span></li><li><span>2/2/25 - <a href=https://rinne.in/posts/devlogs/base16384-guidebook>Base16384.js 使用指南</a></span></li><li><span>12/8/24 - <a href=https://rinne.in/notes/4>记贡献 bgm.tv 的API项目(bangumi/server)时的一些坑</a></span></li><li><span>12/8/24 - <a href=https://rinne.in/notes/3>算是知道“黑科技”这个词的来源了</a></span></li><li><span>10/1/24 - <a href=https://rinne.in/posts/devlogs/rollup-project-config-template>一份Rollup项目的配置模板</a></span></li></ul>
+<ul><li><span>3/8/25 - <a href=https://rinne.in/notes/5>阅读《使用闲置安卓手机搭建自动追番的流媒体平台》的评论/记录</a></span></li><li><span>3/8/25 - <a href=https://rinne.in/posts/default/install-fnm-without-magic>在无魔法环境下安装 fnm</a></span></li><li><span>2/2/25 - <a href=https://rinne.in/posts/translation/typescript-enum-as-restricted-key-or-value-type>在 TypeScript 中将枚举(enum)用作受限键(key)或值类型</a></span></li><li><span>2/2/25 - <a href=https://rinne.in/posts/devlogs/base16384-guidebook>Base16384.js 使用指南</a></span></li><li><span>12/8/24 - <a href=https://rinne.in/notes/4>记贡献 bgm.tv 的API项目(bangumi/server)时的一些坑</a></span></li></ul>
 
 **Recent Star...**
 
@@ -90,4 +90,4 @@ An independent amateur developer coding with love.
 ---
 
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/8/25, 9:00 AM<br>下一次刷新：3/9/25, 9:00 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/9/25, 9:05 AM<br>下一次刷新：3/10/25, 9:05 AM</p>
