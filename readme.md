@@ -73,7 +73,7 @@ An independent amateur developer coding with love.
 
 **Recent Writing...**
 
-<ul><li><span>7/5/25 - <a href=https://rinne.in/notes/6>npm包bangumi-data在deno里导入失败的解决方法</a></span></li><li><span>3/8/25 - <a href=https://rinne.in/notes/5>阅读《使用闲置安卓手机搭建自动追番的流媒体平台》的评论/记录</a></span></li><li><span>3/8/25 - <a href=https://rinne.in/posts/default/install-fnm-without-magic>在无魔法环境下安装 fnm</a></span></li><li><span>2/2/25 - <a href=https://rinne.in/posts/translation/typescript-enum-as-restricted-key-or-value-type>在 TypeScript 中将枚举(enum)用作受限键(key)或值类型</a></span></li><li><span>2/2/25 - <a href=https://rinne.in/posts/devlogs/base16384-guidebook>Base16384.js 使用指南</a></span></li></ul>
+<ul><li><span>7/13/25 - <a href=https://rinne.in/notes/7>podman rootless 模式又报错了(直接关机导致的)</a></span></li><li><span>7/5/25 - <a href=https://rinne.in/notes/6>npm包bangumi-data在deno里导入失败的解决方法</a></span></li><li><span>3/8/25 - <a href=https://rinne.in/notes/5>阅读《使用闲置安卓手机搭建自动追番的流媒体平台》的评论/记录</a></span></li><li><span>3/8/25 - <a href=https://rinne.in/posts/default/install-fnm-without-magic>在无魔法环境下安装 fnm</a></span></li><li><span>2/2/25 - <a href=https://rinne.in/posts/translation/typescript-enum-as-restricted-key-or-value-type>在 TypeScript 中将枚举(enum)用作受限键(key)或值类型</a></span></li></ul>
 
 **Recent Star...**
 
@@ -90,4 +90,4 @@ An independent amateur developer coding with love.
 ---
 
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/13/25, 9:45 AM<br>下一次刷新：7/14/25, 9:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/14/25, 9:41 AM<br>下一次刷新：7/15/25, 9:41 AM</p>
