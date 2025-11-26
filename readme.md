@@ -73,7 +73,7 @@ An independent amateur developer coding with love.
 
 **Recent Writing...**
 
-<ul><li><span>11/22/25 - <a href=https://rinne.in/posts/default/easytier-tutorials>EasyTier 简明指南</a></span></li><li><span>10/24/25 - <a href=https://rinne.in/posts/CTF/szu-aurora-ctf-2025-writeup>SZU AuroraCTF 2025 新生赛 WriteUp</a></span></li><li><span>9/26/25 - <a href=https://rinne.in/notes/8>在 Arch Linux 上使用 GANSS (高斯) GS3104T Pro 键盘</a></span></li><li><span>9/5/25 - <a href=https://rinne.in/posts/devlogs/get-current-time-in-moonbitlang>关于MoonBit的当前时间获取</a></span></li><li><span>8/22/25 - <a href=https://rinne.in/posts/devlogs/convert-sync-to-async-in-js-ts-to-prevent-blocking>JS/TS中将同步任务转为异步任务以防止阻塞</a></span></li></ul>
+<ul><li><span>11/25/25 - <a href=https://rinne.in/posts/default/how-to-configure-easytier-peer-with-srv-txt-http-record>EasyTier 使用 srv/txt/http 协议配置多peer节点连接</a></span></li><li><span>11/25/25 - <a href=https://rinne.in/posts/devlogs/how-to-use-casaos-cli-to-manage-apps>如何使用casaos-cli管理app</a></span></li><li><span>11/25/25 - <a href=https://rinne.in/notes/9>openwrt 23.05 安装tailscale</a></span></li><li><span>11/22/25 - <a href=https://rinne.in/posts/default/easytier-tutorials>EasyTier 简明指南</a></span></li><li><span>10/24/25 - <a href=https://rinne.in/posts/CTF/szu-aurora-ctf-2025-writeup>SZU AuroraCTF 2025 新生赛 WriteUp</a></span></li></ul>
 
 **Recent Star...**
 
@@ -90,4 +90,4 @@ An independent amateur developer coding with love.
 ---
 
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/25/25, 9:23 AM<br>下一次刷新：11/26/25, 9:23 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/26/25, 9:23 AM<br>下一次刷新：11/27/25, 9:23 AM</p>
