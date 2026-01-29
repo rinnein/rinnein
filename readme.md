@@ -73,7 +73,7 @@ An independent amateur developer coding with love.
 
 **Recent Writing...**
 
-<ul><li><span>12/29/25 - <a href=https://rinne.in/posts/app-share/witr>witr: 快速检查某个进程为什么运行/端口为什么占用</a></span></li><li><span>12/16/25 - <a href=https://rinne.in/notes/10>ufw-docker在非英文的服务器上的启动检测bug及修复</a></span></li><li><span>11/25/25 - <a href=https://rinne.in/posts/default/how-to-configure-easytier-peer-with-srv-txt-http-record>EasyTier 使用 srv/txt/http 协议配置多peer节点连接</a></span></li><li><span>11/25/25 - <a href=https://rinne.in/posts/devlogs/how-to-use-casaos-cli-to-manage-apps>如何使用casaos-cli管理app</a></span></li><li><span>11/25/25 - <a href=https://rinne.in/notes/9>openwrt 23.05 安装tailscale</a></span></li></ul>
+<ul><li><span>1/28/26 - <a href=https://rinne.in/posts/devlogs/SocialSisterYi_bilibili-API-collect_1347>[错误修正] 弹幕attr属性发生变化 · Issue #1347 · SocialSisterYi/bilibili-API-collect</a></span></li><li><span>12/29/25 - <a href=https://rinne.in/posts/app-share/witr>witr: 快速检查某个进程为什么运行/端口为什么占用</a></span></li><li><span>12/16/25 - <a href=https://rinne.in/notes/10>ufw-docker在非英文的服务器上的启动检测bug及修复</a></span></li><li><span>11/25/25 - <a href=https://rinne.in/posts/default/how-to-configure-easytier-peer-with-srv-txt-http-record>EasyTier 使用 srv/txt/http 协议配置多peer节点连接</a></span></li><li><span>11/25/25 - <a href=https://rinne.in/posts/devlogs/how-to-use-casaos-cli-to-manage-apps>如何使用casaos-cli管理app</a></span></li></ul>
 
 **Recent Star...**
 
@@ -90,4 +90,4 @@ An independent amateur developer coding with love.
 ---
 
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/28/26, 9:42 AM<br>下一次刷新：1/29/26, 9:42 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/29/26, 9:54 AM<br>下一次刷新：1/30/26, 9:54 AM</p>
