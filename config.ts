@@ -12,8 +12,8 @@ export const github = {
 };
 
 export const mxSpace = {
-  url: "https://rinne.in",
-  api: "https://mx-api.rinne.in/api/v2",
+  url: "https://www.rinne.in",
+  api: "https://eo.mx-api.rinne.in/api/v2",
 };
 
 export const timeZone = "Asia/Shanghai";
