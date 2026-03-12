@@ -77,7 +77,7 @@ An independent amateur developer coding with love.
 
 **Recent Star...**
 
-<ul></ul>
+<ul><li><a href=https://github.com/rinnein/auto-uooc-go>rinnein/auto-uooc-go</a><span> 某不知名网课平台视频进度自动上报程序</span></li></ul>
 
 **Review Stared...**
 
@@ -90,4 +90,4 @@ An independent amateur developer coding with love.
 ---
 
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/11/26, 9:53 AM<br>下一次刷新：3/12/26, 9:53 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/12/26, 9:59 AM<br>下一次刷新：3/13/26, 9:59 AM</p>
