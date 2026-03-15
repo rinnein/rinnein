@@ -77,7 +77,7 @@ An independent amateur developer coding with love.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/rinnein/auto-uooc-go>rinnein/auto-uooc-go</a><span> 某不知名网课平台视频进度自动上报程序</span></li></ul>
+<ul><li><a href=https://github.com/YusongXiao/fuckuooc>YusongXiao/fuckuooc</a><span> 一键全自动完成 UOOC 课程：视频观看、弹题、测验，支持多课程并行，无需人工干预</span></li><li><a href=https://github.com/rinnein/auto-uooc-go>rinnein/auto-uooc-go</a><span> 某不知名网课平台视频进度自动上报程序</span></li></ul>
 
 **Review Stared...**
 
@@ -90,4 +90,4 @@ An independent amateur developer coding with love.
 ---
 
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/14/26, 9:55 AM<br>下一次刷新：3/15/26, 9:55 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/15/26, 10:12 AM<br>下一次刷新：3/16/26, 10:12 AM</p>
