@@ -73,7 +73,7 @@ An independent amateur developer coding with love.
 
 **Recent Writing...**
 
-<ul><li><span>5/2/26 - <a href=https://www.rinne.in/posts/default/how-to-set-multiple-keybindings-for-gnome>GNOME下同一功能同时绑定多个快捷键</a></span></li><li><span>4/27/26 - <a href=https://www.rinne.in/posts/devlogs/github-actions-npm-publish>Github Actions 中的npm包发布</a></span></li><li><span>1/31/26 - <a href=https://www.rinne.in/posts/devlogs/easytier-share-node-deploy>EasyTier节点自建教程 (最新) (2026)</a></span></li><li><span>1/31/26 - <a href=https://www.rinne.in/posts/devlogs/easytier-share-node-config-template>EasyTier共享节点参考配置文件</a></span></li><li><span>1/31/26 - <a href=https://www.rinne.in/posts/devlogs/easytier-share-node-relay-and-p2p>EasyTier共享节点配置重点，私人模式、网络白名单、中继、转发，一文搞定</a></span></li></ul>
+<ul><li><span>6/6/26 - <a href=https://www.rinne.in/posts/devlogs/how-to-solve-errors-when-inserting-with-drizzle-and-pglite>如何解决 Drizzle + PGLite 在批量插入时的 “RangeError: Maximum call stack size exceeded” 错误</a></span></li><li><span>5/2/26 - <a href=https://www.rinne.in/posts/default/how-to-set-multiple-keybindings-for-gnome>GNOME下同一功能同时绑定多个快捷键</a></span></li><li><span>4/27/26 - <a href=https://www.rinne.in/posts/devlogs/github-actions-npm-publish>Github Actions 中的npm包发布</a></span></li><li><span>1/31/26 - <a href=https://www.rinne.in/posts/devlogs/easytier-share-node-deploy>EasyTier节点自建教程 (最新) (2026)</a></span></li><li><span>1/31/26 - <a href=https://www.rinne.in/posts/devlogs/easytier-share-node-config-template>EasyTier共享节点参考配置文件</a></span></li></ul>
 
 **Recent Star...**
 
@@ -90,4 +90,4 @@ An independent amateur developer coding with love.
 ---
 
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/6/26, 10:57 AM<br>下一次刷新：6/7/26, 10:57 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/7/26, 11:43 AM<br>下一次刷新：6/8/26, 11:43 AM</p>
